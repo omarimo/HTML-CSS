@@ -1,0 +1,21 @@
+h1{
+  color: darkblue;
+}
+h2 {color: grey;}
+H1 {text-align: left;
+font-size: 50px;
+font-family: cursive;}
+body {background: url(https://media2.picsearch.com/is?XHRkI6wqTcRw_5e1T-hlShoY4gcf9i_L0y5czS7Pn0E&height=255);
+background-repeat: no-repeat;
+background-size: 100% 100%;}
+h3 {text-align: center;
+font-size: 100px;}
+
+div {display: inline-block;
+width: 100px
+border :1px solid;
+vertical-align: top}
+table {
+  border-idth:14pc;
+  border-style:solid;
+}
